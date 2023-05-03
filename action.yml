@@ -1,9 +1,9 @@
-name: "CheckoutRepoGitLab"
+name: "Checkout-Gitlab"
 description: | 
-  "Es un actions para hacer un checkout de cualquier repo git solo se requiere usuario, contraseña y la url del repositorio."
+  "Actions para hacer checkout de un repositorio GitLab solo se requiere usuario, contraseña y la url del repositorio."
 branding:
   icon: 'check-circle'
-  color: 'green'
+  color: 'white'
 inputs:
   user_repo:
     description: 'Usuario del repositorio'
