@@ -1,4 +1,4 @@
-# Checkout itLab
+# Checkout GitLab
 
 Actions para facilitar el checkout a un repositorio GitLab.
 
