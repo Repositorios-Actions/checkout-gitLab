@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="340" height="380" alt="CheckoutRepoGitLab" src="public/img/gitlab.png">
-</p>
-
 # Checkout itLab
 
 Actions para facilitar el checkout a un repositorio GitLab.
