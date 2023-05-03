@@ -1,4 +1,4 @@
-name: "Checkout-Gitlab"
+name: "Checkout Gitlab"
 description: | 
   "Actions para hacer checkout de un repositorio GitLab solo se requiere usuario, contraseña y la url del repositorio."
 branding:
