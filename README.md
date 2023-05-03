@@ -2,13 +2,13 @@
   <img width="340" height="380" alt="CheckoutRepoGitLab" src="public/img/gitlab.png">
 </p>
 
-# Checkout Repository GitLab
+# Checkout itLab
 
 Actions para facilitar el checkout a un repositorio GitLab.
 
-## Que es CheckoutRepoGitLab ?
+## ¿Que es Checkout-GitLab?
 
-CheckoutRepoGitLab es un action que permite el clonado de un repositorio GitLab solo requiere 3 parametros de entrada.
+Checkout-GitLab es un action que permite el clonado de un repositorio GitLab solo requiere 3 parametros de entrada.
 
 	Usuario del repositorio.
 	Contraseña del repositorio.
@@ -16,7 +16,7 @@ CheckoutRepoGitLab es un action que permite el clonado de un repositorio GitLab 
 
 ## Instrucciones
 
-1. Copiar el llamado del action en el maketplace de GitHub. Recomendamos usar siempre la ultima versión puedes obtenerla acá [CheckoutRepoGitLab](https://github.com/marketplace/actions/checkoutrepogitlab).
+1. Copiar el llamado del action en el maketplace de GitHub. Recomendamos usar siempre la ultima versión.
 
 Ejemplo:
 
