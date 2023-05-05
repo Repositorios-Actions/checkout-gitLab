@@ -2,9 +2,9 @@
 
 Actions para facilitar el checkout a un repositorio GitLab.
 
-## ¿Que es Checkout-GitLab?
+## ¿Que es Checkout GitLab?
 
-Checkout-GitLab es un action que permite el clonado de un repositorio GitLab solo requiere 3 parametros de entrada.
+Checkout GitLab es un action que permite el clonado de un repositorio GitLab solo requiere 3 parametros de entrada.
 
 	Usuario del repositorio.
 	Contraseña del repositorio.
